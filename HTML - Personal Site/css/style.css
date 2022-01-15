@@ -1,0 +1,18 @@
+
+  body {
+    background-color: #F2FFE9
+  }
+
+  hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%; /* specify the % of the website/ phone screen */
+  }
+  h1 {
+    color: #676FA3;
+  }
+  h3 {
+    color: #BAABDA;
+  }
